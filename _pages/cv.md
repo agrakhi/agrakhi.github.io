@@ -8,57 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download PDF CV]({{ base_path }}/files/CV_Rakhi.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics (with specialization in Statistics), IIT Bombay and Monash University, 2018
+* M.Sc. (Applied Statistics and Informatics), IIT Bombay, 2010
+* B.Sc. (Mathematics, Statistics, and Computer Science), Banasthali University, 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025 -- present: Assistant Professor, IIT Madras
+* 2022 -- 2024: Assistant Professor, SUNY Binghamton
+* 2020 -- 2022: Postdoc, UNC Greensboro
+* 2019 -- 2019: Postdoc, TU Dortmund
+* 2011 -- 2014: Business Analyst/Manager, American Express
+* 2010 -- 2011: Senior Programmer Analyst, EXL Services
