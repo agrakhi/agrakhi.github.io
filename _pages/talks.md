@@ -5,9 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{: .table}
-
-
 | Location | Date | Event |
 |---|---|---|
 | Jalandhar, India | 2026 | Invited: Dr. B. R. Ambedkar National Institute of Technology Jalandhar |
