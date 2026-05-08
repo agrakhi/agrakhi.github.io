@@ -1,13 +1,9 @@
-.page__content ol li {
-  margin-bottom: 1.5em;
-  line-height: 1.6;
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .page__content {
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-}
-
-.page__content a {
-  overflow-wrap: anywhere;
+  max-width: 900px;
+  margin: 0 auto;
 }
