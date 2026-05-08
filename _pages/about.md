@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# Rakhi Singh
-Asst. Professor, IIT Madras  
-rakhi@iitm.ac.in
-
----
-
 ## About
 
 I am an assistant professor in the [Department of Mathematics](https://math.iitm.ac.in/) at the 
