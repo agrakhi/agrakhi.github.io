@@ -24,7 +24,7 @@ repository               : "agrakhi/agrakhi.github.io"
 author:
   # Biographic information
   avatar           : "Rakhi.jpg"
-  name             : "Rakhi Singh"
+  name             : # "Rakhi Singh"
   pronouns         : "she/her"  
   bio              : "Statistician by profession, [structural engineer](https://sites.google.com/view/prakashbadal) by marriage!"
   location         : "Chennai, India"
