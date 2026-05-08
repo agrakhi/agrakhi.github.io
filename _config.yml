@@ -351,9 +351,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-after_footer_scripts:
-  - /assets/css/custom.css
   
 # HTML Compression
 # - https://jch.penibelst.de/
