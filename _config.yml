@@ -24,13 +24,13 @@ repository               : "agrakhi/agrakhi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Rakhi Singh"
+  pronouns         : "she/her"  
+  bio              : "Statistician by profession, [structural engineer](https://sites.google.com/view/prakashbadal) by marriage!"
+  location         : "Chennai, India"
+  employer         : "IIT Madras"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rakhi@iitm.ac.in" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=aBcd5-gAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3469-295X"
+  orcid            : "https://orcid.org/0000-0003-3469-295X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
