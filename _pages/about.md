@@ -30,5 +30,3 @@ My research focuses on screening experiments, discrete choice experiments, and s
 I serve as an Associate Editor for 
 [Journal of Agricultural, Biological and Environmental Statistics](https://link.springer.com/journal/13253) and 
 [Journal of Statistical Theory and Practice](https://link.springer.com/journal/42519).
-
-**Students:** If you are interested in working with me, please see the [team page](https://agrakhi.github.io/team).
