@@ -1,7 +1,7 @@
 ---
 title: "MA 5755: Data Analysis & Visualization in R/Python/SQL"
 collection: teaching
-type: "Jan -- May 2026"
+type: "Jan -- May"
 permalink: /teaching/ma5755-data-analysis-visualization
 date: 2026-01-01
 ---
