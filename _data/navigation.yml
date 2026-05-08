@@ -16,18 +16,13 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+ - title: "Team"
+    url: /team/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Software"
+    url: /software/
+            
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+        
