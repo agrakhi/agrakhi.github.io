@@ -1,9 +1,9 @@
 ---
 title: "MA 5750: Applied Statistics"
 collection: teaching
-type: "Course"
+type: "Jul -- Nov 2025"
 permalink: /teaching/ma5750-applied-statistics
-venue: "IIT Madras"
 date: 2025-07-01
-location: "Chennai, India"
 ---
+
+Graduate-level course.
