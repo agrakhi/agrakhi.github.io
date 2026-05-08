@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Rakhi Singh, Assistant Professor, IIT Madras
-
 I am an assistant professor in the [Department of Mathematics](https://math.iitm.ac.in/) at the 
 [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in Chennai, India. We relocated to India in 2025 and are absolutely thrilled to embark on this new journey.
 
