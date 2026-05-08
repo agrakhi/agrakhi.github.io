@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 ## Published/Accepted
