@@ -5,5 +5,3 @@ type: "Jul -- Nov"
 permalink: /teaching/ma5750-applied-statistics
 date: 2025-07-01
 ---
-
-Graduate-level course.
