@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Published/Accepted
-======
+## Published/Accepted
 
 1. Zhang, F., Singh, R., and Stufken, J. (2026). *An Extension of the GDS-ARM Algorithm for Factor Screening in Mixed-Level Supersaturated Designs*. **Journal of Statistical Theory and Practice**, 20, Article 41.  
    DOI: [10.1007/s42519-026-00542-x](https://doi.org/10.1007/s42519-026-00542-x)
@@ -89,8 +88,8 @@ Published/Accepted
     DOI: [10.1093/biomet/asv040](https://doi.org/10.1093/biomet/asv040)
 
 
-Software/Packages
-======
+## Software/Packages
+
 1. Parker, H., Singh, R., and Badal, P.S. (2022). *RankAggSIgFUR: Polynomially Bounded Rank Aggregation under Kemeny's Axiomatic Approach*. R package version 0.1.0.  
    CRAN: [RankAggSIgFUR](https://cran.r-project.org/web/packages/RankAggSIgFUR/index.html)
 
@@ -98,8 +97,7 @@ Software/Packages
    CRAN: [GDSARM](https://cran.r-project.org/web/packages/GDSARM/index.html)
 
 
-Under Revision/Submitted/In Preparation
-======
+## Under Revision/Submitted/In Preparation
 
 1. Badal, P.S. and Singh, R. *Heuristic Algorithms for Tied Kemeny Rank Aggregation* (submitted).
 
