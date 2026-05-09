@@ -2,7 +2,7 @@
 layout: single
 title: "Team"
 permalink: /team/
-author_profile: true
+author_profile: false
 ---
 
 
