@@ -2,7 +2,7 @@
 layout: single
 title: "Software"
 permalink: /software/
-author_profile: true
+author_profile: false
 ---
 
 - R package `RankAggSIgFUR` [[CRAN](https://cran.r-project.org/web/packages/RankAggSIgFUR/index.html)]  
