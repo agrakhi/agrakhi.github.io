@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 ## IIT Madras
+- MA 5104: Statistical Inference and Learning (July-Dec 2026). The course materials can be found [here](https://github.com/agrakhi/ma5104-stat-inference-and-learning)
 - MA 5755: Data Analysis & Visualization in R/Python/SQL (Jan-Apr 2026). The course materials can be found [here](https://github.com/ma5755-datavisual-iitm/MA5755).
 - MA 5750: Applied Statistics (July-Dec 2025)
 - MA 5013: Applied Regression Analysis (July-Dec 2025)
