@@ -8,6 +8,7 @@ author_profile: false
 
 ## PhD Thesis
 
+- Anant Shinge (IITM, 2026–present): *Advanced topics in screening designs*
 - Naveen Kumar S (IITM, 2026–present): *Constructions and analysis of screening designs*
 - Vinay Kumar Sharma (IITB, joint with [S. Mukhopadhyay](https://sites.google.com/view/siulis-homepage/home), 2026–present): *Spatial sampling designs*
 - Pramit Majumder (IITM, joint with [P.S. Badal](https://sites.google.com/view/prakashbadal), 2025–present): *Multi-Hazard Assessment Framework for Indian Metropolises*
@@ -16,13 +17,15 @@ author_profile: false
 
 ## Masters (M.Sc. / M.S. / M.Tech.) Thesis
 
+- Aritra Dasgupta (IITM, M.Tech., 2026–2027): *Design-based explainable AI*
 - Amar Kumar (IITM, M.Tech., 2025–2026): *Building Faster Oblique Random Forest Package in R*
 - Santanu Das (IITM, M.Tech., 2025–2026): *Hybrid Quantum Machine Learning for Time Series Forecasting Anomaly Detection*
 - Hannah Parker (UNCG, joint with [P.S. Badal](https://sites.google.com/view/prakashbadal), Spring 2022): *Fast and Efficient Algorithms for the Rank Aggregation Problem*
 
 ## Undergraduate Students
 
-- Shayan Sareen (IITM Young Research Fellow (YRF), 2025–2026): *Hyperparameter optimization for deep neural networks and random forests*
+- M. Aaryan Sriram (IITM Young Research Fellow (YRF), joint with [P.S. Badal](https://sites.google.com/view/prakashbadal), 2026-2027): *Developing Efficient Heuristics for Aggregating Rankings and Finding the Top-q Objects*
+- Shayan Sareen (IITM YRF, 2025–2026): *Hyperparameter optimization for deep neural networks and random forests*
 - Atharva Moghe (IITM YRF, joint with [P.S. Badal](https://sites.google.com/view/prakashbadal), 2025–2026): *Developing Efficient Algorithms for Aggregating Rankings and Finding the Top-k Objects*
 
 ## Project Associates / Interns
