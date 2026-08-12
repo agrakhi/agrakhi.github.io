@@ -7,6 +7,8 @@ author_profile: false
 
 ## Published/Accepted
 
+Badal, P.S. and Singh, R. (2026). *Efficient heuristics for handling ties in Kemeny rank aggregation*. **Operations Research Perspectives**, accepted DOI: [10.1016/j.orp.2026.100413](https://doi.org/10.1016/j.orp.2026.100413)
+
 Zhang, F., Singh, R., and Stufken, J. (2026). *An Extension of the GDS-ARM Algorithm for Factor Screening in Mixed-Level Supersaturated Designs*. **Journal of Statistical Theory and Practice**, 20, Article 41. DOI: [10.1007/s42519-026-00542-x](https://doi.org/10.1007/s42519-026-00542-x)
 
 Stallrich, J., Singh, R., Vogt-Lowell, K., and Li, F. (2025). *Powerful Foldover Designs*. **Quality and Reliability Engineering International**, 42(2), 553–564. DOI: [10.1002/qre.70105](https://doi.org/10.1002/qre.70105)
@@ -63,8 +65,6 @@ Singh, R., Chai, F.S., and Das, A. (2015). *Optimal two-level choice designs for
 
 
 ## Under Revision/Submitted/In Preparation
-
-Badal, P.S. and Singh, R. *Heuristic Algorithms for Tied Kemeny Rank Aggregation* (submitted).
 
 Collins, D. and Singh, R. *Subdata Selection for High-Dimensional Big Data* (submitted).
 
